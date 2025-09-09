@@ -1,4 +1,4 @@
-
+i
 # Zero two — Friendly Bot (Display-ready README)
 
 [![Repo size](https://img.shields.io/github/repo-size/your-username/your-repo)](https://github.com/your-username/your-repo)
@@ -12,7 +12,7 @@
 > A short tagline: **A friendly multi-platform bot** (WhatsApp / Discord / Web), easy to run, extend, and customize.
 
 ![screenshot](./assets/readme-screenshot.png)  
-*(Replace `./assets/readme-screenshot.png` with a real screenshot for best effect.)*
+*(Replace `./assets/readme-screenshot.png` https://share.google/I4OA56RNUm5cXcZas.)*
 
 ---
 
