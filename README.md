@@ -72,15 +72,3 @@
 # clone
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
-
-# install
-npm install
-# or
-yarn install
-
-# copy example env
-cp .env.example .env
-
-# edit .env with tokens/keys
-# then run
-npm run start 
